@@ -22,9 +22,10 @@ GridHub is a innovative platform that connects microgrid owners with property ow
 # Repositories
 
 - [IoT Application](https://github.com/nina-rebello/GridHub_IoT)
-- [Backend]()
-- [Frontend]()
-- [Mobile]()
+- [Backend](https://github.com/Santlago/apigridhub)
+- [Frontend](https://github.com/Santlago/webgridhub)
+- [Mobile](https://github.com/FelipeGuedesGoncalves/GridHubMobile)
+- [C#](https://github.com/LuizLucena97/GridHub)
   
 ## Project Proposal
 In the face of increasing climate instability, the world must continually seek alternatives to mitigate these challenges. News frequently highlights the many facets of a planet in flux, emphasizing the urgent need for solutions to preserve the environment and ensure a sustainable future.
