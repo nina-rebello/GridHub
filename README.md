@@ -136,5 +136,14 @@ GridHub is more than just a platform—it’s a concrete step toward a sustainab
 | **Real-Time Updates**  | Track space availability and microgrid funding goals in real-time.             |
 | **Sustainability Focus** | Promote renewable energy adoption and carbon footprint reduction.             |
 
+
+## Architecture
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=12Ay-fUX9rtXzyFzs1ZmEbRqebAX69CR0" alt="Architecture Diagram">
+</div>
+
+
+
 ### Let's power a cleaner, greener future together with **GridHub**!
 
